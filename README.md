@@ -755,3 +755,6 @@ An example for delete would be
         "matcher": <matcher>,
         "writeConcern": "SAFE"
     }
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/mod-mongo-persistor
